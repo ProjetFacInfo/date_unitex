@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1313 950
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 12632256
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR y
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 100 390 4 2 3 6 10 
+"" 974 393 0 
+"<un>+<deux>+<trois>+<quatre>+<cinq>+<six>+<sept>+<huit>+<neuf>" 544 382 1 1 
+"<dix>" 249 130 3 2 4 1 
+"-" 425 141 2 5 7 
+"<sept>+<huit>+<neuf>" 612 197 1 1 
+"<vingt>" 262 556 3 8 1 9 
+"<onze>+<douze>+<treize>+<quatorze>+<quinze>+<seize>" 696 117 1 1 
+"-" 435 458 1 2 
+"-<et>-" 417 616 1 2 
+"<trente>" 261 703 2 1 9 

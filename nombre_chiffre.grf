@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1313 950
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 12632256
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR y
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 262 3 2 3 4 
+"" 578 266 0 
+"<1>+<2>+<3>+<4>+<5>+<6>+<7>+<8>+<9>" 347 110 1 1 
+"<1>+<2>" 228 261 2 2 5 
+"<3>" 231 384 2 6 5 
+"<0>" 349 261 1 1 
+"<1>" 366 359 1 1 

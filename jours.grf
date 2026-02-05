@@ -1,0 +1,23 @@
+#Unigraph
+SIZE 1874 950
+FONT Times New Roman:  12
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 12632256
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR y
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+3
+"<E>" 77 403 1 2 
+"" 1704 424 0 
+"<lundi>+<mardi>+<mercredi>+<jeudi>+<vendredi>+<samedi>+<dimanche>" 743 393 1 1 
