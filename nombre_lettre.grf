@@ -1,5 +1,5 @@
 #Unigraph
-SIZE 1313 950
+SIZE 1689 1223
 FONT Times New Roman:  12
 OFONT Times New Roman:B 12
 BCOLOR 16777215
@@ -17,15 +17,25 @@ DRST n
 FITS 100
 PORIENT L
 #
-11
-"<E>" 100 390 4 2 3 6 10 
-"" 974 393 0 
-"<un>+<deux>+<trois>+<quatre>+<cinq>+<six>+<sept>+<huit>+<neuf>" 544 382 1 1 
-"<dix>" 249 130 3 2 4 1 
-"-" 425 141 2 5 7 
-"<sept>+<huit>+<neuf>" 612 197 1 1 
-"<vingt>" 262 556 3 8 1 9 
-"<onze>+<douze>+<treize>+<quatorze>+<quinze>+<seize>" 696 117 1 1 
-"-" 435 458 1 2 
-"-<et>-" 417 616 1 2 
-"<trente>" 261 703 2 1 9 
+21
+"<E>" 100 390 7 2 4 5 8 12 17 7 
+"" 1182 396 0 
+"<deux>+<trois>+<quatre>+<cinq>+<six>+<sept>+<huit>+<neuf>" 715 270 1 1 
+"<sept>+<huit>+<neuf>" 1060 146 1 1 
+"<onze>+<douze>+<treize>+<quatorze>+<quinze>+<seize>" 721 854 1 1 
+"<dix>" 719 34 2 1 6 
+"-" 917 45 1 3 
+"<quatre-vingts>" 682 112 1 1 
+"<vingt>+<trente>+<quarante>+<cinquante>+<soixante>" 298 424 3 9 11 1 
+"-<et>-" 536 472 1 10 
+"<un>+<une>" 718 512 1 1 
+"-" 550 326 1 2 
+"<quatre-vingt>" 323 517 1 13 
+"-" 548 559 4 10 2 4 14 
+"<dix>" 712 607 2 15 1 
+"-" 829 604 1 16 
+"<sept>+<huit>+<neuf>" 918 585 1 1 
+"<soixante>" 311 797 2 18 20 
+"-<et>-" 754 1065 1 19 
+"<onze>" 947 967 1 1 
+"-" 538 798 2 4 14 

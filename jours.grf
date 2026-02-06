@@ -17,7 +17,8 @@ DRST n
 FITS 100
 PORIENT L
 #
-3
-"<E>" 77 403 1 2 
-"" 1704 424 0 
-"<lundi>+<mardi>+<mercredi>+<jeudi>+<vendredi>+<samedi>+<dimanche>" 743 393 1 1 
+4
+"<E>" 62 174 2 2 3 
+"" 585 184 0 
+":nombre_chiffre" 300 86 1 1 
+"<premier>+<1er>" 312 289 1 1 
